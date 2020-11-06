@@ -1,0 +1,29 @@
+2020-11-06 19:57:17 INFO  Log:37 - http://demo.guru99.com/test/newtours/
+2020-11-06 19:57:17 DEBUG Log:23 - TestCase1
+2020-11-06 19:57:17 FATAL Log:53 - D:\JavaSeleniumFramework-master\JavaSeleniumFramework-master\DataSheet\demo.xlsx
+2020-11-06 19:57:17 ERROR Log:45 - Sample
+2020-11-06 19:57:18 INFO  Log:37 - Click : By.xpath: //a[text()='REGISTER']
+2020-11-06 19:57:20 INFO  Log:37 - Elements : By.xpath: //input[@name='firstName']
+2020-11-06 19:57:20 INFO  Log:37 - Value : Demo
+2020-11-06 19:57:20 INFO  Log:37 - Elements : By.name: lastName
+2020-11-06 19:57:20 INFO  Log:37 - Value : User
+2020-11-06 19:57:20 INFO  Log:37 - Elements : By.xpath: //input[@name='phone']
+2020-11-06 19:57:20 INFO  Log:37 - Value : 9999955555
+2020-11-06 19:57:20 INFO  Log:37 - Elements : By.xpath: //input[@name='userName']
+2020-11-06 19:57:20 INFO  Log:37 - Value : sree
+2020-11-06 19:57:21 INFO  Log:37 - Elements : By.xpath: //input[@name='address1']
+2020-11-06 19:57:21 INFO  Log:37 - Value : ambedkar street
+2020-11-06 19:57:21 INFO  Log:37 - Elements : By.xpath: //input[@name='city']
+2020-11-06 19:57:21 INFO  Log:37 - Value : chennai
+2020-11-06 19:57:21 INFO  Log:37 - Elements : By.xpath: //input[@name='state']
+2020-11-06 19:57:21 INFO  Log:37 - Value : TamilNadu
+2020-11-06 19:57:21 INFO  Log:37 - Elements : By.xpath: //input[@name='postalCode']
+2020-11-06 19:57:21 INFO  Log:37 - Value : 600130
+2020-11-06 19:57:22 INFO  Log:37 - Elements : By.xpath: //input[@name='email']
+2020-11-06 19:57:22 INFO  Log:37 - Value : Demo@gmail.com
+2020-11-06 19:57:22 INFO  Log:37 - Elements : By.xpath: //input[@name='password']
+2020-11-06 19:57:22 INFO  Log:37 - Value : demo
+2020-11-06 19:57:22 INFO  Log:37 - Elements : By.xpath: //input[@name='confirmPassword']
+2020-11-06 19:57:22 INFO  Log:37 - Value : demo
+2020-11-06 19:57:23 INFO  Log:37 - Click : By.xpath: //input[@name='submit']
+2020-11-06 19:57:23 DEBUG Log:30 - Close
